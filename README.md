@@ -1,16 +1,24 @@
-## Hi there 👋
+## # 👋 Hi there, I'm Dilshodbek Shodiyorov!
 
-<!--
-**dilshodbekshodiyorov/dilshodbekshodiyorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🎯 Aspiring JavaScript Frontend Developer  
+- 🌏 From Uzbekistan  
+- 💻 Passionate about Web Development  
+- 📖 Learning JavaScript, BEM, and GitHub  
+- 🏆 Goal: Becoming a professional frontend specialist  
+- 🇩🇪 Future plans: Moving to Germany, insha'Allah  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+- 💡 Frontend: HTML, CSS, JavaScript, React Js, Bootsrap, (BEM methodology)  
+- 🏗 Frameworks & Libraries: Bootstrap , React Js  
+- 📂 Version Control: Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus  
+- 🎯 Working on real-time chat app (frontend)  
+- 📚 Mastering JavaScript fundamentals  
+
+## 🌐 Connect with Me  
+<code><a href="@Shodiyorov_Dilshodbek">My telegram </a> </code>
+
+🚀 *Always learning, always growing!*
+
