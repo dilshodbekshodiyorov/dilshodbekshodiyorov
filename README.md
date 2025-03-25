@@ -18,7 +18,8 @@
 - 📚 Mastering JavaScript fundamentals  
 
 ## 🌐 Connect with Me  
-<code><a href="@Shodiyorov_Dilshodbek">My telegram </a> </code>
+<code><a href="@Shodiyorov_Dilshodbek">My telegram</a> <img src="![image](https://github.com/user-attachments/assets/7477f58f-e89e-4abc-8346-e77754a8ff21)
+" ></code>
 
 🚀 *Always learning, always growing!*
 
