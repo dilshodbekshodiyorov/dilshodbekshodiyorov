@@ -1,16 +1,16 @@
-## # 👋 Hi there, I'm Dilshodbek Shodiyorov!
+# 👋 Hi there, I'm Dilshodbek Shodiyorov!
 
 ## 🚀 About Me  
 - 🎯 Aspiring JavaScript Frontend Developer  
 - 🌏 From Uzbekistan  
 - 💻 Passionate about Web Development  
-- 📖 Learning JavaScript, BEM, and GitHub  
+- 📖 Learning JavaScript, BEM,   React and GitHub  
 - 🏆 Goal: Becoming a professional frontend specialist  
 - 🇩🇪 Future plans: Moving to Germany, insha'Allah  
 
 ## 🛠 Tech Stack  
-- 💡 Frontend: HTML, CSS, JavaScript, React Js, Bootsrap, (BEM methodology)  
-- 🏗 Frameworks & Libraries: Bootstrap , React Js  
+- 💡 Frontend: HTML, CSS, JavaScript (BEM methodology) , React Js
+- 🏗 Frameworks & Libraries: Bootstrap  and React Js
 - 📂 Version Control: Git, GitHub  
 
 ## 📌 Current Focus  
@@ -18,8 +18,7 @@
 - 📚 Mastering JavaScript fundamentals  
 
 ## 🌐 Connect with Me  
-<code><a href="https//:Shodiyorov_Dilshodbek">My telegram</a> <img src="![image](https://github.com/user-attachments/assets/7477f58f-e89e-4abc-8346-e77754a8ff21)
-" ></code>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shodiyorov_Dilshodbek)  
 
 🚀 *Always learning, always growing!*
 
